@@ -29,7 +29,7 @@ else:
 TOTAL = DIM_X * DIM_Y # DO NOT CHANGE!!!
 SAMPLE_MAX=9999
 
-FILE_NAME="numbers.txt"
+FILE_NAME="numbers.csv"
 
 # write to file
 with open(FILE_NAME, 'w') as f:
