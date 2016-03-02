@@ -27,7 +27,7 @@ else:
     sys.exit(0)
 
 TOTAL = DIM_X * DIM_Y # DO NOT CHANGE!!!
-SAMPLE_MAX=8888
+SAMPLE_MAX=7777
 
 FILE_NAME="numbers.csv"
 
